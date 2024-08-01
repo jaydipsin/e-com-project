@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Leptop",
+    "category": "Computers",
+    "price": 45000.00,
+    "stock": 50,
+    "description": "Lenovo laptops are known for their durability, performance, and innovative features, 8GB RAM 256GB SSD ,And 14 inch FHD display.",
+    "image":"./assets/lenovo-leptop.png"
+  },
+  {
+    "id": 2,
+    "name": "phone",
+    "category": "mobaile",
+    "price": 150000.00,
+    "stock": 5,
+    "description": "apple i phone 13 pro , are known for their durability, performance, and innovative features, 8GB RAM 256GB storage ,And  FHD display.",
+    "image":"./assets/iphone-13.png"
+  },
+  {
+    "id": 3,
+    "name": "console",
+    "category": "Gaming",
+    "price": 4500.00,
+    "stock": 150,
+    "description": "Sony play station ,are known for their durability, performance, and innovative features,.",
+    "image":"./assets/gaming-console.png"
+  },
+  {
+    "id": 4,
+    "name": "sound system",
+    "category": "music",
+    "price": 45000.00,
+    "stock": 10,
+    "description": "i ball spekars are known for their durability, performance, and innovative features, usb port memory, and remote .",
+    "image":"./assets/pngwing4.png"
+  },
+  {
+    "id": 5,
+    "name": "head phone",
+    "category": "music",
+    "price": 9999.00,
+    "stock": 64,
+    "description": "bits headphone  are known for their durability, performance, and iquality , 13mm driver dolby dpikars ,And diffrent colors.",
+    "image":"./assets/pngwing2.png"
+  },
+  {
+    "id": 6,
+    "name": "keybord",
+    "category": "Computers",
+    "price": 800.00,
+    "stock": 500,
+    "description": "Redgare machenical key board are known for their durability, performance, and innovative features backlitekey which is replaceable,.",
+    "image":"./assets/keyboard.png"
+  }
+]
